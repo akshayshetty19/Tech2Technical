@@ -194,6 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-Prince Mishra - [@PrinceMishra30](https://github.com/PrinceMishra30)
+Prince Mishra - [@akshayshetty19](https://github.com/akshayshetty19)
 
-Project Link: [https://github.com/PrinceMishra30/Tech2Technical](https://github.com/PrinceMishra30/Tech2Technical)
+Project Link: [https://github.com/akshayshetty19/Tech2Technical](https://github.com/akshayshetty19/Tech2Technical)
